@@ -1,1 +1,3 @@
 tree_menu/migrations/
+.idea/
+__pycache__
