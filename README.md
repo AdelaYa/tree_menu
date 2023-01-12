@@ -14,7 +14,7 @@
 ## Быстрый старт
 
 ###  Клонируйте репозиторий, включая зависимости:
-`git clone https://github.com/AdelaYa/tree_menu`
+`git clone https://github.com/AdelaYa/tree_menu.git`
 
 ###  Запустите команды:
 `docker-compose build`
